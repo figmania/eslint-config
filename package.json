@@ -12,5 +12,8 @@
     "@typescript-eslint/parser": "^6.11.0",
     "eslint": "^8.53.0",
     "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
