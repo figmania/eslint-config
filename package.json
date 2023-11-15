@@ -1,6 +1,6 @@
 {
   "name": "@figmania/eslint-config",
-  "private": true,
+  "version": "1.0.0",
   "repository": "https://github.com/figmania/eslint-config.git",
   "description": "Figmania ESLint Config",
   "author": "Tobias Strebitzer <tobias.strebitzer@magloft.com>",
